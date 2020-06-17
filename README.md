@@ -8,4 +8,3 @@ teachable machine 사용
 카카오 speech-api 
 # 시연영상
 [![Video Label](http://img.youtube.com/vi/AU2T4GL3Evk/0.jpg)](https://youtu.be/AU2T4GL3Evk?t=0s)
-https://youtu.be/AU2T4GL3Evk
